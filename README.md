@@ -22,68 +22,68 @@ By replacing 9th grade math and reading scores for Thomas High School with NaN, 
 - District Summary: % Passing Math, % Passing Reading, and % Overall Passing changed by less than 0.2%; dropping from 75.0%, 86.0%, and 65.2% to 74.8%, 85.7%, and 64.9% respectively. While Average Math Score dropped by 0.1% from 79.0% to 78.9%, Average Reading remained unchanged at 81.9%.
 
 District Summary including 9th Grade Thomas High School
-![District_Summary_with_9th_Grade_THS](district_summary_w_9th_grade_ths.png)
+![District_Summary_with_9th_Grade_THS](images/district_summary_w_9th_grade_ths.png)
 
 District Summary excluding 9th Grade Thomas High School
-![District_Summary_without_9th_Grade_THS](district_summary_wo_9th_grade_ths.png)
+![District_Summary_without_9th_Grade_THS](images/district_summary_wo_9th_grade_ths.png)
 
 - School Summary: % Passing Math, % Passing Reading, and % Overall Passing changed by more than 25.0%; dropping from 93.3%, 97.3%, and 90.9% to 66.9%, 69.7% and 65.1% respectively. Average Math Score and Average Reading Score remained largely unchanged.
 
 School Summary including 9th Grade Thomas High School
-![School_Summary_with_9th_Grade_THS](school_summary_w_9th_grade_ths.png)
+![School_Summary_with_9th_Grade_THS](images/school_summary_w_9th_grade_ths.png)
 
 School Summary excluding 9th Grade Thomas High School
-![School_Summary_without_9th_Grade_THS](school_summary_wo_9th_grade_ths.png)
+![School_Summary_without_9th_Grade_THS](images/school_summary_wo_9th_grade_ths.png)
 
 - Top and Bottom Performing Schools: While Thomas High School's % Passing Math, % Passing Reading, and % Overall Passing dropped by 0.09%, 0.29%, and 0.32% respectively, the school still retained its second position in the top performing schools list. This is due to the fact that we recomputed the math and scores for only grade 10 to grade 12 excluding the grade 9 entirely. The list of bottom performing schools remain unchanged.
 
 Top Performing Schools including 9th Grade Thomas High School
-![Top_Performing_Schools_with_9th_Grade_THS](top_performing_w_9th_grade_THS.png)
+![Top_Performing_Schools_with_9th_Grade_THS](images/top_performing_w_9th_grade_THS.png)
 
 Top Performing Schools excluding 9th Grade Thomas High School
-![Top_Performing_Schools_without_9th_Grade_THS](top_performing_wo_9th_grade_ths.png)
+![Top_Performing_Schools_without_9th_Grade_THS](images/top_performing_wo_9th_grade_ths.png)
 
 Bottom Performing Schools including 9th Grade Thomas High School
-![Bottom_Performing_Schools_with_9th_Grade_THS](bottom_performing_w_9th_grade_ths.png)
+![Bottom_Performing_Schools_with_9th_Grade_THS](images/bottom_performing_w_9th_grade_ths.png)
 
 Bottom Performing Schools excluding 9th Grade Thomas High School
-![Bottom_Performing_Schools_without_9th_Grade_THS](bottom_performing_wo_9th_grade_ths.png)
+![Bottom_Performing_Schools_without_9th_Grade_THS](images/bottom_performing_wo_9th_grade_ths.png)
 
 - Math and Reading Scores by Grade: By replacing 9th grade math and reading scores for Thomas High School, the 9th grade math and reading display NaN. All other entries for the other schools display the same scores before and after replacing 9th grade Thomas High School scores with NaN.
 
 Math and Reading Scores by Grade including 9th Grade Thomas High School
 
-![Math_scores_by_grade_with_9th_grade_THS](math_scores_by_grade_w_9th_grade_ths.png)
-![reading_scores_by_grade_with_9th_grade_THS](reading_scores_by_grade_w_9th_grade_ths.png)
+![Math_scores_by_grade_with_9th_grade_THS](images/math_scores_by_grade_w_9th_grade_ths.png)
+![reading_scores_by_grade_with_9th_grade_THS](images/reading_scores_by_grade_w_9th_grade_ths.png)
 
 Math and Reading Scores by Grade excluding 9th Grade Thomas High School
 
-![Math_scores_by_grade_without_9th_grade_THS](math_scores_by_grade_wo_9th_grade_ths.png)
-![reading_scores_by_grade_without_9th_grade_THS](reading_scores_by_grade_wo_9th_grade_ths.png)
+![Math_scores_by_grade_without_9th_grade_THS](images/math_scores_by_grade_wo_9th_grade_ths.png)
+![reading_scores_by_grade_without_9th_grade_THS](images/reading_scores_by_grade_wo_9th_grade_ths.png)
 
 - Scores by School Spending: Since the recomputed Average Math Score and Average Reading Score, and % Passing Math, % Passing Reading, and % Overall Passing for Thomas High School were similar to results obtained originally, Scores by school spending remain unchanged across all metrics.
 
 Scores by School Spending including 9th Grade Thomas High School
-![Scores_by_School_Spending_with_9th_Grade_THS](scores_by_school_spending_w_9th_grade.png)
+![Scores_by_School_Spending_with_9th_Grade_THS](images/scores_by_school_spending_w_9th_grade.png)
 
 Scores by School Spending including 9th Grade Thomas High School
-![Scores_by_School_Spending_without_9th_Grade_THS](scores_by_school_spending_wo_9th_grade.png)
+![Scores_by_School_Spending_without_9th_Grade_THS](images/scores_by_school_spending_wo_9th_grade.png)
 
 - Scores by School Size: Since the recomputed Average Math Score and Average Reading Score, and % Passing Math, % Passing Reading, and % Overall Passing for Thomas High School were largely unchanged, Scores by school size remain unchanged across all metrics.
 
 Scores by School Size including 9th Grade Thomas High School
-![Scores_by_School_Size_with_9th_Grade_THS](scores_by_school_size_w_9th_grade_ths.png)
+![Scores_by_School_Size_with_9th_Grade_THS](images/scores_by_school_size_w_9th_grade_ths.png)
 
 Scores by School Size excluding 9th Grade Thomas High School
-![Scores_by_School_Size_without_9th_Grade_THS](scores_by_school_size_wo_9th_grade_ths.png)
+![Scores_by_School_Size_without_9th_Grade_THS](images/scores_by_school_size_wo_9th_grade_ths.png)
 
 - Scores by School Type: Since the recomputed Average Math Score and Average Reading Score, and % Passing Math, % Passing Reading, and % Overall Passing for Thomas High School were largely unchanged, Scores by school type remain unchanged across all metrics.
 
 Scores by School Type including 9th Grade Thomas High School
-![Scores_by_School_Type_with_9th_Grade_THS](scores_by_school_type_w_9th_grade_ths.png)
+![Scores_by_School_Type_with_9th_Grade_THS](images/scores_by_school_type_w_9th_grade_ths.png)
 
 Scores by School Type excluding 9th Grade Thomas High School
-![Scores_by_School_Type_without_9th_Grade_THS](scores_by_school_type_wo_9th_grade_ths.png)
+![Scores_by_School_Type_without_9th_Grade_THS](images/scores_by_school_type_wo_9th_grade_ths.png)
 
 
 ## Summary
