@@ -38,7 +38,7 @@ School Summary excluding 9th Grade Thomas High School
 - Top and Bottom Performing Schools: While Thomas High School's % Passing Math, % Passing Reading, and % Overall Passing dropped by 0.09%, 0.29%, and 0.32% respectively, the school still retained its second position in the top performing schools list. This is due to the fact that we recomputed the math and scores for only grade 10 to grade 12 excluding the grade 9 entirely. The list of bottom performing schools remain unchanged.
 
 Top Performing Schools including 9th Grade Thomas High School
-![Top_Performing_Schools_with_9th_Grade_THS](images/top_performing_w_9th_grade_THS.png)
+![Top_Performing_Schools_with_9th_Grade_THS](images/top_performing_w_9th_grade_ths.png)
 
 Top Performing Schools excluding 9th Grade Thomas High School
 ![Top_Performing_Schools_without_9th_Grade_THS](images/top_performing_wo_9th_grade_ths.png)
